@@ -1,0 +1,24 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Responsividade extra */
+@media (max-width: 768px) {
+    aside {
+        margin-bottom: 20px;
+    }
+    article {
+        margin-bottom: 20px;
+    }
+}
